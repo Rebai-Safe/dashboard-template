@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="371cee99-eb95-407e-a0ff-6ad8d55a4d02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/leon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/mountain.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/services.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2XFV2n1sy4zTt28oBUICFfVAay8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/safe/projects/css projects/Template4- dashboard  elzero web school&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;liveEdit&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Template3 elzero web school/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="371cee99-eb95-407e-a0ff-6ad8d55a4d02" name="Changes" comment="" />
+      <created>1698224610567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698224610567</updated>
+      <workItem from="1698224610865" duration="320000" />
+      <workItem from="1698249939163" duration="29882000" />
+      <workItem from="1698395931374" duration="15426000" />
+      <workItem from="1698589113782" duration="5843000" />
+      <workItem from="1698650865417" duration="12462000" />
+      <workItem from="1698824686984" duration="728000" />
+      <workItem from="1698825425657" duration="10866000" />
+      <workItem from="1698853241735" duration="11055000" />
+      <workItem from="1699002745630" duration="14395000" />
+      <workItem from="1699096044878" duration="621000" />
+      <workItem from="1699184409817" duration="267000" />
+      <workItem from="1699188554172" duration="4035000" />
+      <workItem from="1699264868041" duration="58000" />
+      <workItem from="1699268702781" duration="640000" />
+      <workItem from="1700579833097" duration="728000" />
+      <workItem from="1709825502720" duration="456000" />
+      <workItem from="1710689334448" duration="6245000" />
+      <workItem from="1710769154985" duration="1048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
